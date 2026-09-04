@@ -23,6 +23,10 @@ const config = require("./config");
  */
 
 const PRICE_RE = /(?:^|\s)([\d,]{2,})\s*(?:Singapore dollars|SGD|US dollars|dollars)/i;
+// Google's summary sentence reads "... round trip total. Nonstop flight
+// with X." for direct itineraries, vs "... 1 stop flight with X." (or
+// "2 stops") for connections.
+const NONSTOP_RE = /\bNonstop flight\b/i;
 
 function buildUrl(departureDate, returnDate) {
   const q = `Flights from ${config.origin} to ${config.destination} on ${departureDate} through ${returnDate}`;
@@ -40,6 +44,10 @@ function parsePrice(labelText) {
   const m = labelText.match(PRICE_RE);
   if (!m) return null;
   return Number(m[1].replace(/,/g, ""));
+}
+
+function isNonstop(labelText) {
+  return NONSTOP_RE.test(labelText);
 }
 
 async function scrapeOneCombo(browser, departureDate, returnDate, debugSink) {
@@ -74,6 +82,7 @@ async function scrapeOneCombo(browser, departureDate, returnDate, debugSink) {
     for (const label of labels) {
       const airline = matchAirline(label);
       const price = parsePrice(label);
+      if (config.nonstopOnly && !isNonstop(label)) continue;
       if (airline && price) {
         results.push({
           airlineCode: airline.code,
@@ -134,7 +143,7 @@ function cheapestPerAirline(results) {
   return best;
 }
 
-module.exports = { scrapeAll, cheapestPerAirline, buildUrl, matchAirline, parsePrice };
+module.exports = { scrapeAll, cheapestPerAirline, buildUrl, matchAirline, parsePrice, isNonstop };
 
 if (require.main === module) {
   const debug = process.argv.includes("--debug");

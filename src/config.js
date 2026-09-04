@@ -20,6 +20,10 @@ module.exports = {
 
   currency: "SGD",
 
+  // Only keep nonstop (direct) flights — connecting itineraries are
+  // dropped before matching/pricing.
+  nonstopOnly: true,
+
   // Only email when a NEW lowest price is found for a given airline
   // (i.e. price today < lowest price ever recorded for that airline
   // across all date combos), not on every check.
