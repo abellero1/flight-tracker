@@ -2,13 +2,17 @@ name: Flight price check
 
 on:
   schedule:
-    # Every 30 minutes. NOTE: GitHub does not guarantee exact timing for
-    # scheduled workflows — expect several minutes of drift, more during
-    # platform-wide high load. Going below ~30 min raises the odds Google
+    # Every 30 minutes, offset from :00/:30. GitHub's own docs warn that
+    # exact hour/half-hour marks are peak load for the Actions scheduler
+    # and get delayed or dropped first — confirmed here: "*/30 * * * *"
+    # sat enabled for 70+ minutes across two windows without firing once.
+    # Running at :07/:37 instead avoids that contention. Still no hard
+    # timing guarantee — expect some drift, more during platform-wide
+    # high load. Going below ~30 min raises the odds Google
     # rate-limits/CAPTCHAs the runner's IP; going lower also burns your
     # Actions minutes budget fast on a private repo (this repo should be
     # public, which gets unlimited minutes).
-    - cron: "*/30 * * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
 
 permissions:
