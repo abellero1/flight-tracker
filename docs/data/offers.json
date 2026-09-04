@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T16:50:34.818Z",
+  "generatedAt": "2026-09-04T19:24:36.024Z",
   "offers": [
     {
       "airlineCode": "5J",
@@ -44,11 +44,11 @@
     {
       "airlineCode": "5J",
       "airline": "Cebu Pacific",
-      "price": 1139,
+      "price": 1138,
       "currency": "SGD",
       "departureDate": "2026-12-11",
       "returnDate": "2027-01-03",
-      "rawLabel": "From 1139 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:20 AM on Friday, December 11. Total duration 3 hr 55 min.   Select flight",
+      "rawLabel": "From 1138 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:20 AM on Friday, December 11. Total duration 3 hr 55 min.   Select flight",
       "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-03"
     },
     {
@@ -74,11 +74,11 @@
     {
       "airlineCode": "5J",
       "airline": "Cebu Pacific",
-      "price": 1299,
+      "price": 1298,
       "currency": "SGD",
       "departureDate": "2026-12-12",
       "returnDate": "2027-01-03",
-      "rawLabel": "From 1299 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 5:20 AM on Saturday, December 12. Total duration 3 hr 55 min.   Select flight",
+      "rawLabel": "From 1298 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 5:20 AM on Saturday, December 12. Total duration 3 hr 55 min.   Select flight",
       "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-03"
     }
   ]
