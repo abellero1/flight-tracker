@@ -1,0 +1,16 @@
+{
+  "name": "flight-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SIN-CEB flight price tracker (SQ / 5J / PR) with email alerts on new lows.",
+  "main": "src/run.js",
+  "scripts": {
+    "check": "node src/run.js",
+    "offers": "node src/offers.js",
+    "scrape:debug": "node src/scrape.js --debug"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.14",
+    "playwright": "^1.46.0"
+  }
+}

@@ -1,0 +1,525 @@
+{
+  "generatedAt": "2026-09-04T06:44:20.565Z",
+  "offers": [
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 799,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-06",
+      "rawLabel": "From 799 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 10:50 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 7:20 PM on Friday, December 11. Total duration 8 hr 30 min.  Layover (1 of 1) is a 2 hr 55 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-06"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 835,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-06",
+      "rawLabel": "From 835 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 6:10 PM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:30 AM on Saturday, December 12. Total duration 11 hr 20 min.  Layover (1 of 1) is a 5 hr 35 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-06"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 879,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-06",
+      "rawLabel": "From 879 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 6:10 PM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 4:15 AM on Sunday, December 13. Total duration 10 hr 5 min.  Layover (1 of 1) is a 4 hr 30 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-06"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 892,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-06",
+      "rawLabel": "From 892 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:20 AM on Friday, December 11. Total duration 3 hr 55 min.   Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-06"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 936,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-05",
+      "rawLabel": "From 936 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 10:50 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 7:20 PM on Friday, December 11. Total duration 8 hr 30 min.  Layover (1 of 1) is a 2 hr 55 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-05"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 972,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-05",
+      "rawLabel": "From 972 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 6:10 PM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:30 AM on Saturday, December 12. Total duration 11 hr 20 min.  Layover (1 of 1) is a 5 hr 35 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-05"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 996,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-06",
+      "rawLabel": "From 996 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 3:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 12:45 PM on Saturday, December 12. Total duration 9 hr 20 min.  Layover (1 of 1) is a 4 hr 45 min layover at Iloilo International Airport in Iloilo City. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-06"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1011,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1011 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 10:50 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 7:20 PM on Friday, December 11. Total duration 8 hr 30 min.  Layover (1 of 1) is a 2 hr 55 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1015,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-06",
+      "rawLabel": "From 1015 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:10 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 8:55 AM on Saturday, December 12. Total duration 7 hr 45 min.  Layover (1 of 1) is a 2 hr 10 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-06"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1016,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-05",
+      "rawLabel": "From 1016 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 6:10 PM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 4:15 AM on Sunday, December 13. Total duration 10 hr 5 min.  Layover (1 of 1) is a 4 hr 30 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-05"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1029,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-05",
+      "rawLabel": "From 1029 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:20 AM on Friday, December 11. Total duration 3 hr 55 min.   Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-05"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1039,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-06",
+      "rawLabel": "From 1039 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 10:50 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 9:05 PM on Saturday, December 12. Total duration 10 hr 15 min.  Layover (1 of 1) is a 4 hr 35 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-06"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1046,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-03",
+      "rawLabel": "From 1046 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 10:50 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 7:20 PM on Friday, December 11. Total duration 8 hr 30 min.  Layover (1 of 1) is a 2 hr 55 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-03"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1047,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1047 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 6:10 PM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:30 AM on Saturday, December 12. Total duration 11 hr 20 min.  Layover (1 of 1) is a 5 hr 35 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1052,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-06",
+      "rawLabel": "From 1052 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 5:20 AM on Saturday, December 12. Total duration 3 hr 55 min.   Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-06"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1068,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-06",
+      "rawLabel": "From 1068 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 10:50 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 7:20 PM on Saturday, December 12. Total duration 8 hr 30 min.  Layover (1 of 1) is a 2 hr 55 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-06"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1075,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-06",
+      "rawLabel": "From 1075 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Operated by PAL Express. Leaves Singapore Changi Airport at 11:25 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 7:00 PM on Friday, December 11. Total duration 7 hr 35 min.  Layover (1 of 1) is a 2 hr 25 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-06"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1075,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-06",
+      "rawLabel": "From 1075 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Leaves Singapore Changi Airport at 8:45 PM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:45 AM on Saturday, December 12. Total duration 9 hr.  Layover (1 of 1) is a 3 hr 40 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-06"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1082,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-03",
+      "rawLabel": "From 1082 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 6:10 PM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:30 AM on Saturday, December 12. Total duration 11 hr 20 min.  Layover (1 of 1) is a 5 hr 35 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-03"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1091,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1091 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 6:10 PM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 4:15 AM on Sunday, December 13. Total duration 10 hr 5 min.  Layover (1 of 1) is a 4 hr 30 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1104,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1104 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:20 AM on Friday, December 11. Total duration 3 hr 55 min.   Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1126,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-03",
+      "rawLabel": "From 1126 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 6:10 PM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 4:15 AM on Sunday, December 13. Total duration 10 hr 5 min.  Layover (1 of 1) is a 4 hr 30 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-03"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1132,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-05",
+      "rawLabel": "From 1132 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 3:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 12:45 PM on Saturday, December 12. Total duration 9 hr 20 min.  Layover (1 of 1) is a 4 hr 45 min layover at Iloilo International Airport in Iloilo City. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-05"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1139,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-03",
+      "rawLabel": "From 1139 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:20 AM on Friday, December 11. Total duration 3 hr 55 min.   Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-03"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1152,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-05",
+      "rawLabel": "From 1152 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:10 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 8:55 AM on Saturday, December 12. Total duration 7 hr 45 min.  Layover (1 of 1) is a 2 hr 10 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-05"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1176,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-05",
+      "rawLabel": "From 1176 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 10:50 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 9:05 PM on Saturday, December 12. Total duration 10 hr 15 min.  Layover (1 of 1) is a 4 hr 35 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-05"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1189,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-05",
+      "rawLabel": "From 1189 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 5:20 AM on Saturday, December 12. Total duration 3 hr 55 min.   Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-05"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1191,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1191 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Operated by PAL Express. Leaves Singapore Changi Airport at 11:25 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 7:00 PM on Friday, December 11. Total duration 7 hr 35 min.  Layover (1 of 1) is a 2 hr 25 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1191,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1191 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Leaves Singapore Changi Airport at 8:45 PM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:45 AM on Saturday, December 12. Total duration 9 hr.  Layover (1 of 1) is a 3 hr 40 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1191,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-05",
+      "rawLabel": "From 1191 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Operated by PAL Express. Leaves Singapore Changi Airport at 11:25 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 7:00 PM on Friday, December 11. Total duration 7 hr 35 min.  Layover (1 of 1) is a 2 hr 25 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-05"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1191,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-05",
+      "rawLabel": "From 1191 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Leaves Singapore Changi Airport at 8:45 PM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:45 AM on Saturday, December 12. Total duration 9 hr.  Layover (1 of 1) is a 3 hr 40 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-05"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1204,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-05",
+      "rawLabel": "From 1204 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 10:50 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 7:20 PM on Saturday, December 12. Total duration 8 hr 30 min.  Layover (1 of 1) is a 2 hr 55 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-05"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1208,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1208 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 3:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 12:45 PM on Saturday, December 12. Total duration 9 hr 20 min.  Layover (1 of 1) is a 4 hr 45 min layover at Iloilo International Airport in Iloilo City. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1227,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1227 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:10 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 8:55 AM on Saturday, December 12. Total duration 7 hr 45 min.  Layover (1 of 1) is a 2 hr 10 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1242,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-03",
+      "rawLabel": "From 1242 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 3:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 12:45 PM on Saturday, December 12. Total duration 9 hr 20 min.  Layover (1 of 1) is a 4 hr 45 min layover at Iloilo International Airport in Iloilo City. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-03"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1250,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1250 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Leaves Singapore Changi Airport at 8:45 PM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 5:45 AM on Sunday, December 13. Total duration 9 hr.  Layover (1 of 1) is a 3 hr 40 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1250,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-05",
+      "rawLabel": "From 1250 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Leaves Singapore Changi Airport at 8:45 PM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 5:45 AM on Sunday, December 13. Total duration 9 hr.  Layover (1 of 1) is a 3 hr 40 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-05"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1262,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-03",
+      "rawLabel": "From 1262 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:10 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 8:55 AM on Saturday, December 12. Total duration 7 hr 45 min.  Layover (1 of 1) is a 2 hr 10 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-03"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1264,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1264 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 5:20 AM on Saturday, December 12. Total duration 3 hr 55 min.   Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1280,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1280 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 10:50 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 7:20 PM on Saturday, December 12. Total duration 8 hr 30 min.  Layover (1 of 1) is a 2 hr 55 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1299,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-03",
+      "rawLabel": "From 1299 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 5:20 AM on Saturday, December 12. Total duration 3 hr 55 min.   Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-03"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1308,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1308 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Operated by PAL Express. Leaves Singapore Changi Airport at 12:55 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 8:05 AM on Saturday, December 12. Total duration 7 hr 10 min.  Layover (1 of 1) is a 1 hr 55 min layover at Ninoy Aquino International Airport in Manila. Unknown emissions. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1308,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1308 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Operated by PAL Express. Leaves Singapore Changi Airport at 11:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 7:00 PM on Saturday, December 12. Total duration 7 hr 35 min.  Layover (1 of 1) is a 2 hr 25 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "5J",
+      "airline": "Cebu Pacific",
+      "price": 1314,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-03",
+      "rawLabel": "From 1314 Singapore dollars round trip total. 1 stop flight with Cebu Pacific. Leaves Singapore Changi Airport at 10:50 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 7:20 PM on Saturday, December 12. Total duration 8 hr 30 min.  Layover (1 of 1) is a 2 hr 55 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-03"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1360,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-06",
+      "rawLabel": "From 1360 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Operated by PAL Express. Leaves Singapore Changi Airport at 2:20 PM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 10:30 PM on Friday, December 11. Total duration 8 hr 10 min.  Layover (1 of 1) is a 2 hr 55 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-06"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1474,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-03",
+      "rawLabel": "From 1474 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Operated by PAL Express. Leaves Singapore Changi Airport at 11:25 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 7:00 PM on Friday, December 11. Total duration 7 hr 35 min.  Layover (1 of 1) is a 2 hr 25 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-03"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1474,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-03",
+      "rawLabel": "From 1474 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Leaves Singapore Changi Airport at 8:45 PM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:45 AM on Saturday, December 12. Total duration 9 hr.  Layover (1 of 1) is a 3 hr 40 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-03"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1476,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-04",
+      "rawLabel": "From 1476 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Operated by PAL Express. Leaves Singapore Changi Airport at 2:20 PM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 10:30 PM on Friday, December 11. Total duration 8 hr 10 min.  Layover (1 of 1) is a 2 hr 55 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-04"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1476,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-05",
+      "rawLabel": "From 1476 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Operated by PAL Express. Leaves Singapore Changi Airport at 2:20 PM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 10:30 PM on Friday, December 11. Total duration 8 hr 10 min.  Layover (1 of 1) is a 2 hr 55 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-05"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1590,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-03",
+      "rawLabel": "From 1590 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Operated by PAL Express. Leaves Singapore Changi Airport at 12:55 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 8:05 AM on Saturday, December 12. Total duration 7 hr 10 min.  Layover (1 of 1) is a 1 hr 55 min layover at Ninoy Aquino International Airport in Manila. Unknown emissions. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-03"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1590,
+      "currency": "SGD",
+      "departureDate": "2026-12-12",
+      "returnDate": "2027-01-03",
+      "rawLabel": "From 1590 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Operated by PAL Express. Leaves Singapore Changi Airport at 11:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 7:00 PM on Saturday, December 12. Total duration 7 hr 35 min.  Layover (1 of 1) is a 2 hr 25 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-03"
+    },
+    {
+      "airlineCode": "PR",
+      "airline": "Philippine Airlines",
+      "price": 1759,
+      "currency": "SGD",
+      "departureDate": "2026-12-11",
+      "returnDate": "2027-01-03",
+      "rawLabel": "From 1759 Singapore dollars round trip total. 1 stop flight with Philippine Airlines. Operated by PAL Express. Leaves Singapore Changi Airport at 2:20 PM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 10:30 PM on Friday, December 11. Total duration 8 hr 10 min.  Layover (1 of 1) is a 2 hr 55 min layover at Ninoy Aquino International Airport in Manila. Select flight",
+      "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-03"
+    }
+  ]
+}

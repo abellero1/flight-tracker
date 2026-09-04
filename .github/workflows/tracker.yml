@@ -1,0 +1,53 @@
+name: Flight price check
+
+on:
+  schedule:
+    # Every 30 minutes. NOTE: GitHub does not guarantee exact timing for
+    # scheduled workflows — expect several minutes of drift, more during
+    # platform-wide high load. Going below ~30 min raises the odds Google
+    # rate-limits/CAPTCHAs the runner's IP; going lower also burns your
+    # Actions minutes budget fast on a private repo (this repo should be
+    # public, which gets unlimited minutes).
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: flight-tracker-run
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - run: npx playwright install --with-deps chromium
+
+      - name: Run price check
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTIFY_TO: ${{ secrets.NOTIFY_TO }}
+        run: node src/run.js
+
+      - name: Refresh full offers list
+        run: node src/offers.js
+
+      - name: Commit updated state/log/offers
+        run: |
+          git config user.name "flight-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data/state.json docs/data/log.json docs/data/offers.json
+          git diff --cached --quiet || git commit -m "chore: update flight price data [skip ci]"
+          git push

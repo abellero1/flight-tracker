@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SIN ⇄ CEB fare board</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="board">
+    <header class="board__header">
+      <div class="board__route">
+        <span class="board__city">SIN</span>
+        <span class="board__arrow" aria-hidden="true">⇄</span>
+        <span class="board__city">CEB</span>
+      </div>
+      <div class="board__meta">
+        <p class="board__desc">Tracking round-trip fares · depart Dec 11–12 · return Jan 3–6</p>
+        <p class="board__checked">Last checked: <span id="last-checked">—</span></p>
+        <p class="board__desc"><a href="offers.html">See all offers &rarr;</a></p>
+      </div>
+    </header>
+
+    <main>
+      <section aria-labelledby="fares-heading">
+        <h2 id="fares-heading" class="section-label">Lowest fares seen</h2>
+        <div id="fares" class="fares">
+          <p class="empty-state">No checks recorded yet. The first scheduled run will fill this in.</p>
+        </div>
+      </section>
+
+      <section aria-labelledby="log-heading">
+        <h2 id="log-heading" class="section-label">Check history</h2>
+        <ul id="log" class="log">
+          <li class="empty-state">Nothing logged yet.</li>
+        </ul>
+      </section>
+    </main>
+
+    <footer class="board__footer">
+      <p>Data scraped from Google Flights on a schedule via GitHub Actions. Prices are informational, not booking-ready — verify before purchase.</p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

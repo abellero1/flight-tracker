@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SIN ⇄ CEB all offers</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="board">
+    <header class="board__header">
+      <div class="board__route">
+        <span class="board__city">SIN</span>
+        <span class="board__arrow" aria-hidden="true">⇄</span>
+        <span class="board__city">CEB</span>
+      </div>
+      <div class="board__meta">
+        <p class="board__desc">Every offer from the last scrape · click a row to open it on Google Flights</p>
+        <p class="board__checked">Generated: <span id="generated-at">—</span></p>
+      </div>
+    </header>
+
+    <main>
+      <section aria-labelledby="offers-heading">
+        <h2 id="offers-heading" class="section-label">Offers <span id="offers-count"></span></h2>
+        <div id="offers" class="offers">
+          <p class="empty-state">No offers recorded yet. Run <code>npm run offers</code> to generate this list.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="board__footer">
+      <p>Data scraped from Google Flights. Prices are informational, not booking-ready — verify before purchase.</p>
+      <p><a href="index.html">&larr; back to fare board</a></p>
+    </footer>
+  </div>
+
+  <script src="offers.js"></script>
+</body>
+</html>
