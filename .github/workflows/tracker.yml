@@ -1,14 +1,18 @@
 name: Flight price check
 
 on:
-  schedule:
-    # Every 30 minutes. NOTE: GitHub does not guarantee exact timing for
-    # scheduled workflows — expect several minutes of drift, more during
-    # platform-wide high load. Going below ~30 min raises the odds Google
-    # rate-limits/CAPTCHAs the runner's IP; going lower also burns your
-    # Actions minutes budget fast on a private repo (this repo should be
-    # public, which gets unlimited minutes).
-    - cron: "*/30 * * * *"
+  # Cron trigger disabled for now — package-lock.json was resolving against
+  # an internal registry unreachable from Actions runners, so every
+  # scheduled run failed on `npm ci`. Re-enable the schedule block below
+  # once a run triggered via workflow_dispatch succeeds.
+  # schedule:
+  #   # Every 30 minutes. NOTE: GitHub does not guarantee exact timing for
+  #   # scheduled workflows — expect several minutes of drift, more during
+  #   # platform-wide high load. Going below ~30 min raises the odds Google
+  #   # rate-limits/CAPTCHAs the runner's IP; going lower also burns your
+  #   # Actions minutes budget fast on a private repo (this repo should be
+  #   # public, which gets unlimited minutes).
+  #   - cron: "*/30 * * * *"
   workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
 
 permissions:
