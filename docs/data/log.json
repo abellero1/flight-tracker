@@ -693,5 +693,23 @@
     },
     "newLows": [],
     "error": null
+  },
+  {
+    "at": "2026-09-09T11:49:14.604Z",
+    "status": "ok",
+    "offersFound": 1,
+    "cheapestPerAirline": {
+      "5J": {
+        "airlineCode": "5J",
+        "airline": "Cebu Pacific",
+        "price": 1299,
+        "currency": "SGD",
+        "departureDate": "2026-12-12",
+        "returnDate": "2027-01-05",
+        "rawLabel": "From 1299 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 5:20 AM on Saturday, December 12. Total duration 3 hr 55 min.   Select flight"
+      }
+    },
+    "newLows": [],
+    "error": null
   }
 ]
