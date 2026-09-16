@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-09-16T12:00:34.938Z",
+  "generatedAt": "2026-09-16T16:40:54.920Z",
   "offers": [
     {
       "airlineCode": "5J",
       "airline": "Cebu Pacific",
-      "price": 1444,
+      "price": 1445,
       "currency": "SGD",
       "departureDate": "2026-12-11",
       "returnDate": "2027-01-06",
-      "rawLabel": "From 1444 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:20 AM on Friday, December 11. Total duration 3 hr 55 min.   Select flight",
+      "rawLabel": "From 1445 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Friday, December 11 and arrives at Mactan-Cebu International Airport at 5:20 AM on Friday, December 11. Total duration 3 hr 55 min.   Select flight",
       "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-11%20through%202027-01-06"
     },
     {
       "airlineCode": "5J",
       "airline": "Cebu Pacific",
-      "price": 1444,
+      "price": 1445,
       "currency": "SGD",
       "departureDate": "2026-12-12",
       "returnDate": "2027-01-06",
-      "rawLabel": "From 1444 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 5:20 AM on Saturday, December 12. Total duration 3 hr 55 min.   Select flight",
+      "rawLabel": "From 1445 Singapore dollars round trip total. Nonstop flight with Cebu Pacific. Leaves Singapore Changi Airport at 1:25 AM on Saturday, December 12 and arrives at Mactan-Cebu International Airport at 5:20 AM on Saturday, December 12. Total duration 3 hr 55 min.   Select flight",
       "link": "https://www.google.com/travel/flights?hl=en&curr=SGD&q=Flights%20from%20SIN%20to%20CEB%20on%202026-12-12%20through%202027-01-06"
     },
     {
