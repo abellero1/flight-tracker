@@ -2628,5 +2628,13 @@
     },
     "newLows": [],
     "error": null
+  },
+  {
+    "at": "2026-09-25T10:29:20.676Z",
+    "status": "ok",
+    "offersFound": 0,
+    "cheapestPerAirline": {},
+    "newLows": [],
+    "error": null
   }
 ]
