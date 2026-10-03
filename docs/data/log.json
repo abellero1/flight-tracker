@@ -2940,5 +2940,13 @@
     "cheapestPerAirline": {},
     "newLows": [],
     "error": null
+  },
+  {
+    "at": "2026-10-03T06:19:36.643Z",
+    "status": "ok",
+    "offersFound": 0,
+    "cheapestPerAirline": {},
+    "newLows": [],
+    "error": null
   }
 ]
